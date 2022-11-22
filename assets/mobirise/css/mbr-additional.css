@@ -973,6 +973,17 @@ a {
 .cid-tm3tEwiMgS .card-wrapper .card-title {
   color: #ffffff;
 }
+.cid-tnWSqx3WWG {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #3c217a;
+}
+.cid-tnWSqx3WWG .line {
+  background-color: #6592e6;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
 .cid-tnn4tRRTLF {
   padding-top: 5rem;
   padding-bottom: 5rem;
@@ -2672,5 +2683,87 @@ a {
   margin-bottom: 2rem;
 }
 .cid-tnn4MmVlBW .card-wrapper .card-title {
+  color: #ffffff;
+}
+.cid-tnWIWnKUTV {
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-color: #3c217a;
+}
+.cid-tnWIWnKUTV .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tnWIWnKUTV .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tnWIWnKUTV .mbr-section-title {
+  color: #fafafa;
+}
+.cid-tnWIWnKUTV .mbr-section-subtitle {
+  color: #fafafa;
+  text-align: left;
+}
+.cid-tnWIC3mfjj {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #3c217a;
+}
+.cid-tnWIC3mfjj .mbr-fallback-image.disabled {
+  display: none;
+}
+.cid-tnWIC3mfjj .mbr-fallback-image {
+  display: block;
+  background-size: cover;
+  background-position: center center;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+}
+.cid-tnWIC3mfjj .icons-media-container {
+  display: flex;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  padding-top: 4rem;
+}
+.cid-tnWIC3mfjj .icons-media-container .mbr-iconfont {
+  font-size: 96px;
+  color: #ffffff;
+}
+.cid-tnWIC3mfjj .icons-media-container .icon-block {
+  padding-bottom: 1rem;
+}
+.cid-tnWIC3mfjj .mbr-text {
+  color: #ffffff;
+}
+.cid-tnWIC3mfjj .card {
+  padding-bottom: 1.5rem;
+}
+.cid-tnWIC3mfjj .card-wrapper {
+  min-height: 220px;
+  transition: all 0.3s;
+  border-radius: 4px;
+  padding: 1rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.cid-tnWIC3mfjj .card-wrapper .mbr-iconfont {
+  display: block;
+  font-size: 4rem;
+  color: #ffffff;
+  margin-bottom: 2rem;
+}
+.cid-tnWIC3mfjj .card-wrapper .card-title {
   color: #ffffff;
 }
