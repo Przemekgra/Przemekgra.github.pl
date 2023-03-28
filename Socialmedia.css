@@ -1,0 +1,123 @@
+ .u-section-1 {
+  background-image: url("images/toprzemek.png");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 626px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 123px;
+  background-image: none;
+  height: 123px;
+  margin: 142px 255px 0 auto;
+  padding: 12px;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 123px;
+  background-image: none;
+  height: 123px;
+  margin: -123px 88px 0 auto;
+  padding: 12px;
+}
+
+.u-section-1 .u-icon-3 {
+  width: 123px;
+  background-image: none;
+  height: 123px;
+  margin: 34px 255px 0 auto;
+  padding: 12px;
+}
+
+.u-section-1 .u-icon-4 {
+  width: 123px;
+  background-image: none;
+  height: 123px;
+  margin: -123px 88px 60px auto;
+  padding: 12px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 516px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 50vw;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: 240px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-top: -266px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-icon-3 {
+    margin-top: 163px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-icon-4 {
+    margin-top: 20px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 582px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-top: 79px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-right: 2px;
+  }
+
+  .u-section-1 .u-icon-4 {
+    margin-right: 2px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-icon-1 {
+    width: 110px;
+    height: 110px;
+    margin-top: 80px;
+    padding: 11px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    width: 110px;
+    height: 110px;
+    margin-top: 17px;
+    margin-right: 0;
+    padding: 11px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    width: 110px;
+    height: 110px;
+    margin-top: 17px;
+    padding: 11px;
+  }
+
+  .u-section-1 .u-icon-4 {
+    width: 110px;
+    height: 110px;
+    margin-top: 17px;
+    margin-right: 0;
+    margin-bottom: 10px;
+    padding: 11px;
+  }
+}
